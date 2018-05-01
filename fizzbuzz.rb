@@ -1,4 +1,4 @@
 def fizzbuzz(number)
-  if number % 3 == .is_a?
+  if number % 3 == int.is_a?
     puts "Fizz"
 end
