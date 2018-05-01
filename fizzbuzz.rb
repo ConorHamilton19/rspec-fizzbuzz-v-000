@@ -1,5 +1,5 @@
 def fizzbuzz(int)
-    elsif (int % 3 == 0) && (int % 5 == 0)
+    elsif int % 3 == 0 && int % 5 == 0
    "FizzBuzz"
   
   if int % 3 == 0
